@@ -3,5 +3,14 @@ html {
 }
 
 [class*="col-"] {
-    background-color: rgb(62, 139, 211);
+
+    background-color: rgb(18, 127, 230);
+    border: 1px solid white;
+    text-align: center;
+    line-height: 2em;
+}
+
+h3 {
+    color: black;
+    margin: 10px 0;
 }
