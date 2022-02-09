@@ -4,15 +4,15 @@
 }
 body {
     background-color: rgb(27, 27, 27);
-    font-family: 'Parisienne', cursive;
-    color: #fe866b;
+    font-family: 'Bebas Neue', cursive;
+    color: #ffcce0;
     font-size: 220px;
 }
 
 .visit {
     position: absolute;
     top: 380px;
-    left: -400px;
+    left: -320px;
 }
 
 .japan {
