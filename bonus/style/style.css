@@ -1,0 +1,97 @@
+[class*="col-"] {
+    background-color: rgb(18, 127, 230);
+
+}
+body {
+    background-color: rgb(27, 27, 27);
+    font-family: 'Parisienne', cursive;
+    color: #fe866b;
+    font-size: 220px;
+}
+
+.visit {
+    position: absolute;
+    top: 380px;
+    left: -400px;
+}
+
+.japan {
+    position: absolute;
+    top: 380px;
+    left: 420px;
+}
+
+
+.img-1 {
+    background-image: url(../img/japan1.jpg);
+    background-size: cover;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+.img-2 {
+    background-image: url(../img/japan2.jpg);
+    background-size: cover;
+}
+
+.img-3 {
+    background-image: url(../img/japan3.jpeg);
+    background-size: cover;
+}
+
+.img-4 {
+    background-image: url(../img/japan4.png);
+    background-size: cover;
+}
+
+.img-5 {
+    background-image: url(../img/città.jpg);
+    background-size: cover;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.img-6 {
+    background-image: url(../img/hanami-e-tempio-giapponese.jpg);
+    background-size: cover;
+}
+
+.img-7 {
+    background-image: url(../img/japan5.jpg);
+    background-size: cover;
+}
+
+.img-8 {
+    background-image: url(../img/japan-6.jpg);
+    background-size: cover;
+    border-bottom-right-radius: 30px;
+}
+
+.img-9 {
+    background-image: url(../img/japan7.jpg);
+    background-size: cover;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.img-10 {
+    background-image: url(../img/città-del-Giappone-da-vedere.jpg.webp);
+    background-size: cover;
+}
+
+.img-11 {
+    background-image: url(../img/Giappone-e1592991502225.jpg);
+    background-size: cover;
+}
+
+.img-12 {
+    background-image: url(../img/yokahama-giappone.jpg);
+    background-size: cover;
+    border-bottom-right-radius: 30px;
+}
+
+.img-13 {
+    background-image: url(../img/hanami-e-tempio-giapponese.jpg);
+    background-size: cover;
+    border-bottom-left-radius: 30px;
+}
