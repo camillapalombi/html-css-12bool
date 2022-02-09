@@ -14,3 +14,11 @@ h3 {
     color: black;
     margin: 10px 0;
 }
+
+.col-2-nested , .col-8-nested , .col-6-nasted {
+    background-color: rgb(74, 235, 74);
+    border-color: rgb(18, 127, 230);
+}
+
+
+
