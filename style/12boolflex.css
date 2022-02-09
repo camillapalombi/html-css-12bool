@@ -13,6 +13,14 @@
     margin-bottom: 20px;
 }
 
+.container-central-main {
+    margin-bottom: 20px;
+}
+
+.container-bottom-main {
+    margin-bottom: 20px;
+}
+
 .row {
     display: flex;
     flex-direction: row;
