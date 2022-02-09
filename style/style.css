@@ -1,0 +1,7 @@
+html {
+    color: white;
+}
+
+[class*="col-"] {
+    background-color: rgb(62, 139, 211);
+}
