@@ -9,6 +9,10 @@
     max-width: 100%;
 }
 
+.container-top-main {
+    margin-bottom: 20px;
+}
+
 .row {
     display: flex;
     flex-direction: row;
